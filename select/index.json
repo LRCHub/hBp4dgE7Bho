@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ドント・ストップ・ミー・ナウ (…リヴィジテッド)",
+  "base_artist": "Queen",
+  "createdAt": "2026-01-11T22:39:23.385334Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Don't Stop Me Now",
+      "artist": "Queen",
+      "has_synced": false,
+      "path": "select/pl_01_Don't_Stop_Me_Now_Queen.txt"
+    }
+  ]
+}
