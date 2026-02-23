@@ -1,90 +1,89 @@
-# Queen – ドント・ストップ・ミー・ナウ (…リヴィジテッド)
+# Queen – Don't Stop Me Now (...Revisited)
 
-> **歌詞登録ステータス：プレーン歌詞のみ**
+> **歌詞登録ステータス：同期歌詞あり**
 
-```
-Tonight I'm gonna have myself
-a real good time
-I feel alive and the world
-it's turning inside out Yeah!
-I'm floating around in ecstasy
-So don't stop me now
-don't stop me
-Cause I'm having a good time
-having a good time
-I'm a shooting star
-leaping through the skies
-Like a tiger
-defying the laws of gravity
-I'm a racing car
-passing by like Lady Godiva
-I'm gonna go go go
-There's no stopping me
-I'm burning
-through the skies Yeah!
-Two hundred degrees
-That's why they call me
-Mister Fahrenheit
-I'm trav'ling at the
-speed of light
-I wanna make
-a supersonic man of you
-Don't stop me now
-I'm having such a good time
-I'm having a ball
-don't stop me now
-If you wanna have a good time
-just give me a call
-Don't stop me now
-Cause I'm having a good time
-Don't stop me now
-Yes I'm having a good time
-I don't want to stop at all
-I'm a rocket ship
-on my way to Mars
-On a collision course
-I am a satellite
-I'm out of control
-I am a sex machine
-ready to reload
-Like an atom bomb
-about to Oh oh oh oh oh explode
-I'm burning
-through the skies Yeah!
-Two hundred degrees
-That's why they call me
-Mister Fahrenheit
-I'm trav'ling at the
-speed of light
-I wanna make
-a supersonic woman out of you
-Don't stop me don't stop me
-don't stop me Hey hey hey!
-Don't stop me don't stop me
-Ooh ooh ooh (I like it)
-Don't stop me don't stop me
-have a good time good time
-Don't stop me don't stop me
-Ooh ooh Alright
-I'm burning
-through the skies Yeah!
-Two hundred degrees
-That's why they call me
-Mister Fahrenheit
-I'm trav'ling at the
-speed of light
-I wanna make
-a supersonic woman of you
-Don't stop me now
-I'm having such a good time
-I'm having a ball
-don't stop me now
-If you wanna have a good time
-Just give me a call
-Don't stop me now
-Cause I'm having a good time
-Don't stop me now
-Yes I'm having a good time
-I don't wanna stop at all
-La la laa la la la la la laaa …
+```lrc
+[00:00.54] Tonight I'm gonna have myself a real good time
+[00:07.60] I feel Ah-lih-lih-live
+[00:12.40] And the world
+[00:15.71] I'll turn it inside out, yeah
+[00:20.52] And floating around in ecstasy, so
+[00:37.52] 
+[00:25.63] Don't stop me now
+[00:29.69] Don't stop me
+[00:32.19] 'Cause I'm having a good time
+[00:34.27] Having a good time!
+[00:43.77] 
+[00:35.65] I'm a shooting star leaping through the sky
+[00:38.40] Like a tiger, defying the laws of gravity
+[00:43.13] I'm a racing car passing by
+[00:45.94] Like Lady Godiva
+[00:47.76] I'm gonna go-go-GO
+[00:50.09] There's no stopping me
+[01:01.09] 
+[00:52.78] I'm burnin' through the sky, yeah
+[00:55.90] Two hundred degrees
+[00:57.09] That's why they call me Mister Fahrenheit
+[01:00.16] I'm trav'ling at the speed of light
+[01:03.24] I wanna make a supersonic man out of you
+[01:23.24] 
+[01:07.00] Don't stop me now
+[01:08.99] I'm having such a good time
+[01:11.63] I'm having a ball
+[01:13.00] Don't stop me now
+[01:15.16] If you wanna have a good time
+[01:17.39] Just give me a call!
+[01:19.37] Don't stop me now
+[01:20.59] 'Cause I'm having a good time
+[01:22.14] Don't stop me now
+[01:23.30] Yes, I'm havin' a good time
+[01:25.41] I don't want to stop at all
+[01:38.91] 
+[01:29.19] Yeah, I'm a rocket ship on my way to Mars
+[01:32.71] On a collision course
+[01:34.42] I am a satellite; I'm out of control
+[01:37.30] I am a sex machine ready to reload
+[01:40.53] Like an atom bomb about to
+[01:42.65] Oh, oh, oh, oh, oh, explode!
+[01:56.65] 
+[01:46.70] I'm burnin' through the sky, yeah
+[01:49.92] Two hundred degrees
+[01:51.22] That's why they call me Mister Fahrenheit
+[01:54.35] I'm trav'ling at the speed of light
+[01:57.22] I wanna make a supersonic woman of you
+[02:16.22] 
+[02:02.16] Don't stop me, don't stop me, don't stop me
+[02:04.40] Hey, hey, hey!
+[02:05.89] Don't stop me, don't stop me
+[02:07.15] Ooh, ooh, ooh (I like it!)
+[02:08.89] Don't stop me, don't stop me
+[02:10.39] Have a good time, good time
+[02:11.65] Don't stop me, don't stop me
+[02:13.24] Ahhhhhh ...
+[02:17.65] (Alright)
+[02:22.15] 
+[02:30.95] I'm burning through the sky, yeah
+[02:34.95] Two hundred degrees
+[02:36.28] That's why they call me Mister Fahrenheit
+[02:39.74] I'm trav'ling at the speed of light
+[02:42.01] I want to make a supersonic man outta you
+[03:02.51] 
+[02:45.87] Don't stop me now
+[02:47.72] I'm having such a good time
+[02:50.02] I'm having a ball
+[02:52.14] Don't stop me now
+[02:54.26] If you want to have a good time
+[02:56.57] Just give me a call
+[02:58.39] Don't stop me now
+[02:59.58] 'Cause I'm having a good time
+[03:01.12] Don't stop me now
+[03:02.32] Yes, I'm havin' a good time
+[03:04.38] I don't want to stop at all .
+[03:18.88] 
+[03:10.38] La da-da-da-da daah
+[03:13.30] Da da da haa
+[03:16.20] Ha da-da, ha, ha, Haaa
+[03:21.26] Ha da daa
+[03:25.76] 
+[03:24.33] Ha da da aaa(h) ...
 ```
